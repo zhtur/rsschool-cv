@@ -1,10 +1,10 @@
 <a id="anchor"></a>
 
-#Zhanibek Turebayev
+# Zhanibek Turebayev
 
 
 
-##Contacts
+## Contacts
 
 ---
 
