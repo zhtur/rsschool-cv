@@ -51,14 +51,14 @@ function multiply(a, b){
 Interface with Construction Management. Maintain InVision / InSequence Execution Plan. Interface with Construction Automation Lead. Work with wider Construction Automation Teams to develop new (if required), and maintain existing interfaces between InVision / InSequence and the other Construction Automation Tool Set systems to ensure quality and efficiency. Train new users in software operation and functionality (InVision / InSequence / SmartPlant Review). Train users to use project specific work processes. Create InVison reports. 
 <br /><br />
 
-### PROJECTS 
+### ___PROJECTS___
 
 - GitHub CV-1 Project - [Link to the Project](https://zhtur.github.io/rsschool-cv/cv)
 
 
 <br />
 
-## EDUCATION
+## `EDUCATION`
 
 **2012-2015** - **Aqtobe University After S.Baishev, Aqtobe, Kazakhstan**, BSc. in Engineering and Technology, Information Systems
 
@@ -67,14 +67,14 @@ Interface with Construction Management. Maintain InVision / InSequence Execution
 
 <br />
 
-## COURSES
+## `COURSES`
 
 - **2015** - **EPAM Funcation Testing Training** - Kazakhstan, Karaganda
 - **2013** - **Microsoft Access 2007, Fast Lane Central Asia** - Kazakhstan, Aktau
 
 <br />
 
-## LANGUAGES
+## `LANGUAGES`
 
 - **Kazakh** - Native
 - **Russian** - Full professional proficiency
