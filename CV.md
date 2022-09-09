@@ -3,10 +3,10 @@
 
 ## `CONTACTS`
 
-- Kazakhstan, Aktobe
-- Email: studyzhtur@gmail.com
-- Mob.: +77017976494
-- GitHub: [zhtur](https://github.com/zhtur)
+- **Kazakhstan, Aktobe**
+- **Email:** studyzhtur@gmail.com
+- **Mob.:** +77017976494
+- **GitHub:** [zhtur](https://github.com/zhtur)
 
 ## `SUMMARY`
 
@@ -21,6 +21,7 @@ I am a dedicated, conscientious and high performing business professional with a
 - AutoCad
 - Sketchup
 - Adobe Photoshop
+
 
 ## `CODE EXAMPLE`
 
@@ -41,9 +42,7 @@ Interface with Construction Management. Maintain InVision / InSequence Execution
 
 ## `EDUCATION`
 
-| | |
- --- | --- |
-`2012-2015` | Aqtobe University After S.Baishev, Aqtobe, Kazakhstan BSc. in Engineering and Technology, Information Systems |
-
+`2012-2015`     
+>`Aqtobe University After S.Baishev, Aqtobe, Kazakhstan`<br />BSc. in Engineering and Technology, Information Systems
 
 [Go up](#anchor)
