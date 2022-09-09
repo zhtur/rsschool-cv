@@ -11,7 +11,6 @@
 - **GitHub:** [zhtur](https://github.com/zhtur)
 - **Discord RS School:** Zhanibek Turebayev (@zhtur)
 
-<br />
 
 ## `SUMMARY`
 
