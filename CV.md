@@ -1,7 +1,7 @@
 <a id="anchor"></a>
 # Zhanibek Turebayev<br />
 
-### Junior Frontend Developer<br /><br />
+### Junior Frontend Developer<br />
 
 ## `CONTACTS`
 
