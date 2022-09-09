@@ -74,7 +74,7 @@ Interface with Construction Management. Maintain InVision / InSequence Execution
 
 <br />
 
-## LANGUAGES
+## `LANGUAGES`
 
 - **Kazakh** - Native
 - **Russian** - Full professional proficiency
