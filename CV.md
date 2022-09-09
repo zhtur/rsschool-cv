@@ -1,5 +1,7 @@
 <a id="anchor"></a>
 # Zhanibek Turebayev
+---
+
 
 ## `CONTACTS`
 
@@ -8,7 +10,6 @@
 - Mob.: +77017976494
 - GitHub: [zhtur](https://github.com/zhtur)
 
----
 
 ## `SUMMARY`
 
