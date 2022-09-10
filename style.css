@@ -3,10 +3,11 @@ body {
     font-size: 16px;
 }
 .container-main {
-    border: 1px solid #f1f1f1;
+    border: 1px solid #ebebeb;
     margin: 30px auto;
     width: 1024px;
     padding-top: 10px;
+    box-shadow: 10px 10px 40px -1px rgb(0 0 0 / 15%);
 }
 .container-main div {
     margin: 40px 60px 30px 60px;
